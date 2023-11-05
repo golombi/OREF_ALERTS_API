@@ -1,5 +1,7 @@
 # OREF_ALERTS_API
-Scrape data from the official Israeli Alert System Webpage that currently has no API, using Selenium. A simple project that was written in a couple of days.
+Scrape data from the official Israeli Alert System Webpage that currently has no API, using Selenium. A simple self-study project that was written in a couple of days.
+
+
 
 The script opens the webpage, scrolls and clicks the appropriate buttons according to their webpage design at 11.5.2023:
 
